@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "端到端的机器学习项目-加州住房", "端到端的机器学习项目-加州住房.pyproj", "{9AF233BC-9311-47E4-9F0E-7E70D0F035DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AF233BC-9311-47E4-9F0E-7E70D0F035DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AF233BC-9311-47E4-9F0E-7E70D0F035DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B352220E-14F0-4711-9C8B-9AA2A9F7603E}
+	EndGlobalSection
+EndGlobal
